@@ -1,0 +1,17 @@
+{
+    "name": "zuzsso/ZSArduinoEsp32SdCard",    
+    "description": "Manage the SD card in ESP32 boards",
+    "keywords": "sd",    
+    "authors":
+    [
+      {
+        "name": "Nicky Santamaria",
+        "email": "ndsans@gmail.com" 
+      }      
+    ],
+    "license": "GPL",    
+    "dependencies": {    
+    },
+    "frameworks": "*",
+    "platforms": "espressif32"
+  }
