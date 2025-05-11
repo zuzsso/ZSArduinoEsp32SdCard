@@ -1,8 +1,10 @@
 {
   "name": "ZSArduinoEsp32SdCard",
   "description": "Manage the SD card in ESP32 boards",
+  "version": "3.0.0",
   "keywords": [
-    "sd card"
+    "sd card",
+    "esp32"
   ],
   "authors": [
     {
@@ -12,12 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zuzsso/ZSArduinoEsp32SdCard.git"
+    "url": "https://github.com/zuzsso/ZSArduinoSerialToolkit.git"
   },
   "license": "GPL",
-  "dependencies":{
-    "external-repo": "https://github.com/zuzsso/ZSArduinoSerialToolkit#2.1.0"
-  } ,
+  "dependencies": {
+    "external-repo": "https://github.com/zuzsso/ZSArduinoSerialToolkit#2.2.0"
+  },
   "frameworks": [
     "arduino"
   ],
