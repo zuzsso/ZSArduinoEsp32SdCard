@@ -1,7 +1,7 @@
 {
   "name": "ZSArduinoEsp32SdCard",
   "description": "Manage the SD card in ESP32 boards",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "keywords": [
     "sd card",
     "esp32"
